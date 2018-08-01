@@ -1,4 +1,4 @@
-- hosts: all
+- hosts: webservers
   remote_user: ubuntu
 
   roles:
