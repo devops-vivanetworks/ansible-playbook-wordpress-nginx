@@ -1,4 +1,4 @@
-- hosts: stage-conan-experiment
+- hosts: all
   remote_user: ubuntu
 
   roles:
